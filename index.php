@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head></head>
-	<body>
+	<body style="background-color:lightgreen;">
 		<form action="" method="post">
 			<fieldset>
 				<legend>Search Book</legend>
